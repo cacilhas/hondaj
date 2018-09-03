@@ -1,18 +1,18 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Há [uns 10 anos atrás](http://khondaj.blogspot.com/2007/05/apresentao.html),
+eu e meu filho (na época com 9 anos) começamos a desenvolver um sistema de
+[representação](http://pt.wikipedia.org/wiki/RPG_(jogo)) simples e genérico,
+e criamos um [*blog*](http://khondaj.blogspot.com/) para rastrear nossa
+evolução.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Porém só mantivemos o trabalho por alguns meses, depois o sistema foi encostado.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Quero agora retomar o projeto, trazendo para [cá](//hondaj.cacilhas.info/) o que
+havíamos feito e tentando dar continuidade.
 
-
-[jekyll-organization]: https://github.com/jekyll
+Vejamos onde esta jornada nos levará.
