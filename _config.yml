@@ -5,7 +5,9 @@ description: >
 baseurl: ""
 url: "//hondaj.cacilhas.info/"
 twitter_username: montegasppa
-github_username:  cacilhas
+github_username: cacilhas
+facebook_username: rodrigo.cacilhas
+youtube_username: rodrigocacilhas
 
 # Build settings
 markdown: kramdown
