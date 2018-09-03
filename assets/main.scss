@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.text-right {
+  float: right !important;
+
+  img {
+    margin-left: 1em;
+  }
+}
+
+.post-content {
+  p {
+    text-align: justify;
+  }
+}
