@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre
-permalink: /about/
+permalink: /about
 ---
 
 Há [uns 10 anos atrás](http://khondaj.blogspot.com/2007/05/apresentao.html),

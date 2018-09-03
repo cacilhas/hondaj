@@ -6,4 +6,4 @@ layout: home
 title: Início
 ---
 
-Veja a página “[sobre](/about/)”.
+Veja a página “[sobre](/about)”.
