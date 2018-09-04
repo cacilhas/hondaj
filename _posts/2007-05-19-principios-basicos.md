@@ -2,7 +2,7 @@
 layout: post
 title:  Princípios básicos
 date:   2007-05-19 12:00:00 -0300
-categories: prefácio repost
+categories: introdução repost
 permalink: /2007/05/principios-basicos
 ---
 
