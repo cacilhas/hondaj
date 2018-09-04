@@ -14,7 +14,8 @@ body {
 .site-footer,
 .home,
 .post-header,
-.post-content {
+.post-content,
+div#disqus_thread {
   background-image: url("/assets/images/bg-paper-mid.jpg");
   background-position: center;
   background-repeat: repeat;
@@ -22,7 +23,8 @@ body {
 
 .home,
 .post-header,
-.post-content {
+.post-content,
+div#disqus_thread {
   padding: 1ex 1em 1ex 1em;
 
   ul > li {
