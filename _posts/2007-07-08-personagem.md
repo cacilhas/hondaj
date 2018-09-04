@@ -2,7 +2,7 @@
 layout: post
 title:  Personagem
 date:   2007-07-08 12:00:00 -0300
-categories: introdução repost
+tags:   [introdução, repost]
 permalink: /2007/05/personagem
 ---
 

@@ -2,11 +2,11 @@
 layout: post
 title:  Princípios básicos
 date:   2007-05-19 12:00:00 -0300
-categories: introdução repost
+tags:   [introdução, repost]
 permalink: /2007/05/principios-basicos
 ---
 
-O sistema Ĥondaj’ foi idealizado com base em quatro princípios básicos:
+O sistema {{ site.title }} foi idealizado com base em quatro princípios básicos:
 dinamismo, facilidade, generalidade e inteligibilidade.
 
 O sistema numérico e os cálculos devem ser simples e rápidos para não prejudicar
