@@ -1,9 +1,8 @@
 ---
-layout: post
+layout: page
 title:  Licença
 date:   2018-09-04 00:18:40 -0300
-categories: legal
-permalink: /2018/09/licenca
+permalink: /licenca
 ---
 
 <div class="text-center">
