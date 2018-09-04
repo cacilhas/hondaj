@@ -16,3 +16,12 @@
     text-align: justify;
   }
 }
+
+hr {
+  display: block;
+  border: none;
+  height: 10px;
+  background-image: url('/assets/images/divider.gif');
+  background-position: center;
+  background-repeat: no-repeat;
+}
