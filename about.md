@@ -5,10 +5,10 @@ permalink: /about
 ---
 
 Há [uns 10 anos atrás](http://khondaj.blogspot.com/2007/05/apresentao.html),
-eu e meu filho (na época com 9 anos) começamos a desenvolver um sistema de
-[representação](http://pt.wikipedia.org/wiki/RPG_(jogo)) simples e genérico,
-e criamos um [*blog*](http://khondaj.blogspot.com/) para rastrear nossa
-evolução.
+eu e meu filho mais velho (na época com 9 anos) começamos a desenvolver um
+sistema de [representação](http://pt.wikipedia.org/wiki/RPG_(jogo)) simples e
+genérico, e criamos um [*blog*](http://khondaj.blogspot.com/) para rastrear
+nossa evolução.
 
 Porém só mantivemos o trabalho por alguns meses, depois o sistema foi encostado.
 
