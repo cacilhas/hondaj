@@ -50,8 +50,8 @@ Em indivíduos comuns (inclusive heróis), as estatísticas primárias variam de
 10, podendo haver valores maiores ou menores. O valor médio é 7.
 
 Cada nível de F representa 5Kg que o personagem pode erguer, 10m de distância
-que um peso leve (uma pedra, por exemplo) pode ser atirado, 1/2m de distância
-que o personagem pode saltar e 1/5m de altura que o personagem pode saltar.
+que um peso leve (uma pedra, por exemplo) pode ser atirado, ½m de distância que
+o personagem pode saltar e ⅕m de altura que o personagem pode saltar.
 
 Estatísticas secundárias podem variar de acordo com as necessidades da aventura,
 mas invariavelmente teremos:
@@ -59,7 +59,7 @@ mas invariavelmente teremos:
 - **PF** (pontos de fadiga) quantidade de fadiga (cansaço ou contusão) que o
   personagem pode suportar, igual a F;
 - **DB** (dano básico) quantidade de dano que o personagem é capaz de produzir,
-  igual a 1/5 d6 F;
+  igual a ⅕ d6 F;
 - **Vm** (velocidade média) velocidade média a qual o personagem pode se
   deslocar, média aritmética entre D e V em m/s;
 - **PS** (pontos de sanidade) quantidade de stress metal que o personagem pode
@@ -102,7 +102,7 @@ do personagem.
 O personagem que perdeu PV deve fazer um teste de V por dia para, em caso de
 sucesso, recuperar um PV.
 
-### Tabela F × DB (DB = 1/5 d6 F)
+### Tabela F × DB (DB = ⅕ d6 F)
 
 - **F → DB**
 - F0- → 1d6 - 5
