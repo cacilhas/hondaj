@@ -41,7 +41,7 @@ restrinjam legalmente outros de fazerem algo que a licença permita.
 
 Não tem de cumprir com os termos da licença relativamente a elementos do
 material que estejam no domínio público ou cuja utilização seja permitida por
-uma [exceção ou limitação](https://creativecommons.org/licenses/by/4.0/deed.pt#)
+uma [exceção ou limitação](https://creativecommons.org/licenses/by/4.0/deed.pt)
 que seja aplicável.
 
 Não são dadas quaisquer garantias. A licença pode não lhe dar todas as

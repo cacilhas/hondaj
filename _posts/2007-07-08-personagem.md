@@ -3,7 +3,7 @@ layout: post
 title:  Personagem
 date:   2007-07-08 12:00:00 -0300
 categories: introdução repost
-permalink: /2007/05/nome
+permalink: /2007/05/personagem
 ---
 
 <div class="float-right">
