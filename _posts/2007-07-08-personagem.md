@@ -102,7 +102,7 @@ do personagem.
 O personagem que perdeu PV deve fazer um teste de V por dia para, em caso de
 sucesso, recuperar um PV.
 
-### Tabela F × DB (DB = ⅕d6 F)
+### Tabela F 𝓿𝓼 DB (DB = ⅕d6 F)
 
 - **F → DB**
 - F0- → 1d6 - 5
