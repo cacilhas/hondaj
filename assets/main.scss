@@ -3,6 +3,29 @@
 
 @import "{{ site.theme }}";
 
+body {
+  background-attachment: fixed;
+  background-image: url("/assets/images/bg.gif");
+  background-position: center;
+  background-repeat: repeat;
+}
+
+.site-header,
+.site-footer,
+.home,
+.post-header,
+.post-content {
+  background-image: url("/assets/images/bg-paper-mid.jpg");
+  background-position: center;
+  background-repeat: repeat;
+}
+
+.home,
+.post-header,
+.post-content {
+  padding: 1ex 1em 1ex 1em;
+}
+
 .text-right {
   float: right !important;
 
@@ -21,7 +44,7 @@ hr {
   display: block;
   border: none;
   height: 10px;
-  background-image: url('/assets/images/divider.gif');
+  background-image: url("/assets/images/divider.gif");
   background-position: center;
   background-repeat: no-repeat;
 }
