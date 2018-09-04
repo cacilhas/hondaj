@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Princípios básicos
+title:  Princípios Básicos
 date:   2007-05-19 12:00:00 -0300
 tags:   [introdução, repost]
 permalink: /2007/05/principios-basicos
