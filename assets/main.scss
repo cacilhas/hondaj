@@ -35,12 +35,17 @@ body {
   }
 }
 
-.text-right {
+.float-right {
+  display: float;
   float: right !important;
 
   img {
     margin-left: 1em;
   }
+}
+
+.text-right {
+  text-align: right;
 }
 
 .post-content {
