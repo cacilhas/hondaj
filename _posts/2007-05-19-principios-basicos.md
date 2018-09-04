@@ -7,14 +7,14 @@ permalink: /2007/05/principios-basicos
 ---
 
 O sistema {{ site.title }} foi idealizado com base em quatro princípios básicos:
-dinamismo, facilidade, generalidade e inteligibilidade.
+dinamismo, acessiblidade, generalidade e inteligibilidade.
 
 O sistema numérico e os cálculos devem ser simples e rápidos para não prejudicar
 a fluidez da sessão – princípio do **dinamismo**.
 
 Os objetos necessários para o jogo devem ser de fácil acesso – caderno, lápis,
 borracha e dados de seis faces – para que o sistema não se torne um mecanismo
-elitista. Princípio da **facilidade**.
+elitista. Princípio da **acessibilidade**.
 
 As regras devem ser flexíveis o suficiente para lidar com situações imprevistas,
 por isso devem ser o mais livres de tabelas possível – princípio da
