@@ -24,6 +24,15 @@ body {
 .post-header,
 .post-content {
   padding: 1ex 1em 1ex 1em;
+
+  ul > li {
+    list-style-type: none;
+  }
+  ul > li::before {
+    content: "❀";
+    color: gray;
+    padding-right: 1ex;
+  }
 }
 
 .text-right {
