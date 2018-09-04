@@ -59,7 +59,7 @@ mas invariavelmente teremos:
 - **PF** (pontos de fadiga) quantidade de fadiga (cansaço ou contusão) que o
   personagem pode suportar, igual a F;
 - **DB** (dano básico) quantidade de dano que o personagem é capaz de produzir,
-  igual a ⅕ d6 F;
+  igual a ⅕d6 F;
 - **Vm** (velocidade média) velocidade média a qual o personagem pode se
   deslocar, média aritmética entre D e V em m/s;
 - **PS** (pontos de sanidade) quantidade de stress metal que o personagem pode
@@ -71,12 +71,12 @@ Sempre que o personagem se cansa, faz esforço extra ou sofre contusão leve,
 perde PF. Sempre que descansa, recupera PF. São necessários 10s de descanso para
 recuperar um PF.
 
-Um personagem com menos de 1PF está automaticamente incapacitado ­ desmaiado,
-imobilizado ou fraco, de acordo com o bom senso do mestre ­ e deverá “descansar”
+Um personagem com menos de 1PF está automaticamente incapacitado (desmaiado,
+imobilizado ou fraco, de acordo com o bom senso do mestre) e deverá “descansar”
 até recuperar pelo menos PF1.
 
 Quando um personagem sofre um dano contusivo que o deixa com uma quantidade
-negativa de PF – mesmo que ele já estivesse com PF negativos–, o valor total de
+negativa de PF – mesmo que ele já estivesse com PF negativos –, o valor total de
 PF negativo será deduzido de PV, causando dano real. Perda de cinco PF num único
 evento também representa perda de PV (um PV para cada cinco PF perdidos).
 
@@ -102,7 +102,7 @@ do personagem.
 O personagem que perdeu PV deve fazer um teste de V por dia para, em caso de
 sucesso, recuperar um PV.
 
-### Tabela F × DB (DB = ⅕ d6 F)
+### Tabela F × DB (DB = ⅕d6 F)
 
 - **F → DB**
 - F0- → 1d6 - 5
