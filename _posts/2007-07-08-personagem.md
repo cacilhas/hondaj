@@ -56,14 +56,14 @@ o personagem pode saltar e ⅕m de altura que o personagem pode saltar.
 ### Estatísticas secundárias
 
 Estatísticas secundárias podem variar de acordo com as necessidades da aventura,
-mas invariavelmente teremos:
+sendo o mínimo:
 
 - **PF** (pontos de fadiga) quantidade de fadiga (cansaço ou contusão) que o
   personagem pode suportar, igual a F;
 - **DB** (dano básico) quantidade de dano que o personagem é capaz de produzir,
   igual a ⅕d6 F;
 - **Vm** (velocidade média) velocidade média a qual o personagem pode se
-  deslocar, média aritmética entre D e V em m/s;
+  deslocar, igual a <sup>(D&nbsp;+&nbsp;V)</sup>/<sub>3</sub>;
 - **PS** (pontos de sanidade) quantidade de stress metal que o personagem pode
   suportar, igual a S;
 - **PV** (pontos de vida) quantidade de ferimentos que o personagem pode
