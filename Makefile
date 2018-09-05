@@ -14,7 +14,7 @@ clean:
 	$(COMPILE) clean
 
 
-test: clean $(TEST_DIR)
+test: $(TEST_DIR)
 	$(SERVE) --incremental
 
 
