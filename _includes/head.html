@@ -15,4 +15,7 @@
         window.location.protocol = 'https:';
     </script>
   {%- endif -%}
+  {% if site.tags != "" %}
+    {% include tags.html %}
+  {% endif %}
 </head>

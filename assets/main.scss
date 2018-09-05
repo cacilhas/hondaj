@@ -60,6 +60,43 @@ div#disqus_thread {
   }
 }
 
+.post-tags {
+  text-align: right;
+  color: white;
+}
+
+.dropdown {
+  display: float;
+  float: right;
+}
+
+.dropbtn {
+  border: none;
+  cursor: pointer;
+  background: inherit;
+  font-size: inherit;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  z-index: 1;
+  background-image: url("/assets/images/bg-paper-mid.jpg");
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+
+  a {
+    text-decoration: none;
+    display: block;
+    padding: 2px 2px 2px 2px;
+  }
+}
+
+.dropdown:hover {
+  .dropdown-content {
+    display: block;
+  }
+}
+
 hr {
   display: block;
   border: none;
