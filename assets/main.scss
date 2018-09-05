@@ -14,6 +14,13 @@ body {
 code,
 tt {
   font-family: "Roboto Mono", monospace !important;
+  background-color: inherit;
+  border: none;
+}
+
+pre {
+  background-color: #eef;
+  border: 2px inset #bbd;
 }
 
 .site-header,
@@ -69,6 +76,10 @@ div#disqus_thread {
 .post-tags {
   text-align: right;
   color: white;
+
+  code {
+    background-image: url("/assets/images/bg-paper-mid.jpg");
+  }
 }
 
 .pagination {
