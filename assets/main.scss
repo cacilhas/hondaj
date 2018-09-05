@@ -8,6 +8,12 @@ body {
   background-image: url("/assets/images/bg.gif");
   background-position: center;
   background-repeat: repeat;
+  font-family: Roboto, Helvetica, sans-serif !important;
+}
+
+code,
+tt {
+  font-family: "Roboto Mono", monospace !important;
 }
 
 .site-header,
