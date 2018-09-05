@@ -3,7 +3,7 @@ layout: post
 title:  Personagem
 date:   2007-07-08 12:00:00 -0300
 tags:   introdução repost
-permalink: /2007/05/personagem
+permalink: /2007/07/personagem
 ---
 
 <div class="float-right">
@@ -36,7 +36,7 @@ Há dois tipos de estatísticas: primárias e secundárias.
 As estatísticas primárias são definidas com pontos de personagem (pontos
 iniciais) e as secundárias são calculadas a partir das primárias.
 
-As estatísticas primárias são:
+### Estatísticas primárias
 
 - **F** (força) determina a força física;
 - **D** (destreza) determina a habilidade;
@@ -52,6 +52,8 @@ Em indivíduos comuns (inclusive heróis), as estatísticas primárias variam de
 Cada nível de F representa 5Kg que o personagem pode erguer, 10m de distância
 que um peso leve (uma pedra, por exemplo) pode ser atirado, ½m de distância que
 o personagem pode saltar e ⅕m de altura que o personagem pode saltar.
+
+### Estatísticas secundárias
 
 Estatísticas secundárias podem variar de acordo com as necessidades da aventura,
 mas invariavelmente teremos:
