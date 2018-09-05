@@ -8,4 +8,4 @@ title: Início
 
 #### Parte do portal [ℭacilhας.INFO](https://cacilhas.info/).
 
-#### Veja a página “[sobre](/about)”.
+#### Veja a página “[Sobre](/about)”.
