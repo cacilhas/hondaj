@@ -23,3 +23,14 @@ Ainda não encontrei uma solução, muito menos uma solução simples,
 que não complique o sistema.
 
 Se alguém tiver alguma ideia, por favor comente!
+
+--------------------------------------------------------------------------------
+
+<div class="text-right">
+  <small>
+	Referência:
+    <a href="/2018/07/dano-e-recuperação">
+      Dano e Recuperação
+    </a>
+  </small>
+</div>
