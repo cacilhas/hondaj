@@ -3,9 +3,18 @@
 
 @import "{{ site.theme }}";
 
+$background: "/assets/images/bg.gif";
+$divider: "/assets/images/divider.gif";
+$paper-mid: "/assets/images/bg-paper-mid.jpg";
+
+$gray: #333;
+$light-gray: #eee;
+$box-border: #bbd;
+
+
 body {
   background-attachment: fixed;
-  background-image: url("/assets/images/bg.gif");
+  background-image: url($background);
   background-position: center;
   background-repeat: repeat;
   font-family: Roboto, Helvetica, sans-serif !important;
@@ -19,8 +28,8 @@ tt {
 }
 
 pre {
-  background-color: #eef;
-  border: 2px inset #bbd;
+  background-color: $light-gray;
+  border: 2px inset $box-border;
 }
 
 .site-header,
@@ -29,7 +38,7 @@ pre {
 .post-header,
 .post-content,
 div#disqus_thread {
-  background-image: url("/assets/images/bg-paper-mid.jpg");
+  background-image: url($paper-mid);
   background-position: center;
   background-repeat: repeat;
 }
@@ -45,7 +54,7 @@ div#disqus_thread {
   }
   ul > li::before {
     content: "❀";
-    color: gray;
+    color: $gray;
     padding-right: 1ex;
   }
 }
@@ -78,7 +87,7 @@ div#disqus_thread {
   color: white;
 
   code {
-    background-image: url("/assets/images/bg-paper-mid.jpg");
+    background-image: url($paper-mid);
   }
 }
 
@@ -88,7 +97,7 @@ div#disqus_thread {
 
   a, span {
     padding: 7px 18px;
-    border: 1px solid #eee;
+    border: 1px solid $light-gray;
     margin-left: -2px;
     margin-right: -2px;
     background-color: inherit;
@@ -96,8 +105,8 @@ div#disqus_thread {
   }
 
   a:hover {
-    background-color: #f1f1f1;
-    color: #333;
+    background-color: $light-gray;
+    color: $gray;
   }
 }
 
@@ -117,8 +126,8 @@ div#disqus_thread {
   display: none;
   position: absolute;
   z-index: 1;
-  background-image: url("/assets/images/bg-paper-mid.jpg");
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  background-image: url($paper-mid);
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
 
   a {
     text-decoration: none;
@@ -137,7 +146,7 @@ hr {
   display: block;
   border: none;
   height: 10px;
-  background-image: url("/assets/images/divider.gif");
+  background-image: url($divider);
   background-position: center;
   background-repeat: no-repeat;
 }
