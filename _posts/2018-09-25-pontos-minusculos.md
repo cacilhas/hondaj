@@ -23,7 +23,7 @@ O segundo aplica um golpe contundente no primeiro.
 Como o primeiro personagem está no poder minúsculo -2, seu modificador é 20.
 Assim seus pontos de de fadiga são 20 - 13 = 7.
 
-Isso deve ser anotado como 7PF/P<sub>g</sub>-2.
+Isso deve ser anotado como 7PF/n<sub>g</sub>-2.
 
 Assim o dano que o segundo personagem aplicará a ele deverá receber o mesmo
 modificador: F-5 + 20 = F<sub>e</sub>15, equivalente a 3d₆.
