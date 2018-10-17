@@ -9,6 +9,8 @@ permalink: /book/introdução
 {{ site.title }} se propõe a ser um sistema de RPG (*role-playing game*)
 dinâmico, acessível, genérico e intuitivo.
 
+----------
+
 ### RPG
 
 *Role-playing game* é um tipo de jogo onde os jogadores representam papéis,
@@ -22,6 +24,8 @@ Sistema de RPG é este sistema de regras.
 
 Há alguns sistemas muito aceitos entre os jogadores.
 
+----------
+
 #### Livro-jogo
 
 Na década de ’70 os livros jogo, ou aventuras solo, ficaram muito populares.
@@ -34,6 +38,8 @@ formando os primórdios do RPG.
 
 O autor mais importante de livros jogos é o escritor britânico
 [Steve Jackson](https://www.mobygames.com/developer/sheet/view/developerId,287752/).
+
+----------
 
 #### D&D
 
@@ -63,6 +69,8 @@ como um dado de seis faces com potências de 2.
 Atualmente pertence à [Wizards of the Coast](http://company.wizards.com/),
 subsidiária da [Hasbro](https://shop.hasbro.com/pt-br).
 
+----------
+
 #### GURPS
 
 [Generic and Universal Role Playing System](http://www.sjgames.com/gurps/),
@@ -76,6 +84,8 @@ mas na verdade é apenas incrivelmente genérico e completo.
 Utiliza apenas dados de seis faces (d₆).
 
 Encontra-se na 4ª edição.
+
+----------
 
 #### Sistema d20
 
@@ -91,6 +101,8 @@ Open Game License, que é aberta e permissiva.
 
 Muitos sistemas derivaram do d20, como d20 Modern, Pathfinder RPG, Tormenta RPG,
 4D&T e o próprio D&D3.
+
+----------
 
 #### 3D&T
 
@@ -111,6 +123,8 @@ é apenas uma adaptação do Sistema d20 para dados d₆.
 O sistema é extremamente minimalista, sendo fácil de ser jogado,
 porém criando dificuldades por falta de suporte quando as campanhas evoluem.
 
+----------
+
 #### Generic Fuzion
 
 [Generic Fuzion Rules](https://www.yumpu.com/en/document/view/48041056/generic-fuzion-502-mechacom)
@@ -125,6 +139,8 @@ É uma amálgama entre os sistemas
 e [Interlock](https://rpggeek.com/rpgsystem/998/interlock),
 e utiliza apenas dados de dez faces (d₁₀).
 
+----------
+
 #### Storyteller
 
 Sistema criado por
@@ -135,6 +151,8 @@ e enfoca fortemente na representação mais do que na característica de “jo
 
 O sistema gira em torno de um mundo fictício chamado Mundo das Trevas,
 habitado por vampiros, lobisomens, aparições, múmias e demônios.
+
+----------
 
 #### Tagmar
 
@@ -151,6 +169,8 @@ Com o fracasso do projeto, o sistema foi encerrado em ’97,
 para ser ressuscitado em 2004 sob licença
 [Creative Commons](https://creativecommons.org/).
 
+----------
+
 #### Compacto
 
 [Compacto](https://claudiotorcato.wordpress.com/2009/02/13/sistema-de-rpg-compacto/)
@@ -164,3 +184,5 @@ níveis quantitativos.
 Devido a esta característica, também é bastante dependente de tabelas,
 que precisam ser definidas pelo mestre antes de cada partida
 caso algo não tenha sido previsto pelo sistema.
+
+----------

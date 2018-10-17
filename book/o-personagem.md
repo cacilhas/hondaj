@@ -18,6 +18,8 @@ O personagem é criado a partir de pontos iniciais de personagem,
 que são distribuídos por diferentes seções,
 tudo registrado em uma ficha de personagem.
 
+----------
+
 ### Pontos de personagem
 
 Quando da criação do personagem,
@@ -36,15 +38,21 @@ que tipo de indivíduo ele deverá ser:
 
 Tipicamente heróis de aventuras são criados com 40 pontos.
 
+----------
+
 ### Seções
 
 A ficha que define as características deve ser dividida em seções
 para facilitar a gerência de seus atributos.
 
+----------
+
 #### Estatísticas
 
 A primeira seção são as estatísticas, ou *stats*.
 Há dois tipos de *stats*: primárias e secundárias.
+
+----------
 
 ##### Estatísticas primárias
 
@@ -62,6 +70,8 @@ As *stats* primárias são:
 O valor de cada *stat* varia entre 1 e 10, com exceções.
 O valor mediano é **7** (sete).
 
+----------
+
 ###### Força F
 
 Cada nível de Fₑ (força efetiva) representa:
@@ -76,10 +86,14 @@ Cada nível de Fₑ (força efetiva) representa:
 Algumas dessas tarefas oferecem um redutor natural a ser aplicado à F
 para se calcular a Fₑ.
 
+----------
+
 ###### Destreza D
 
 A destreza é usada majoritariamente como nível básico
 no cálculo de Nₑ de tarefas que requerem precisão e habilidade.
+
+----------
 
 ###### Cognição S
 
@@ -89,6 +103,8 @@ porém “cognição” é um nome muito mais preciso.
 É usada como nível básico no cálculo de Nₑ de tarefas que requerem inteligência
 ou percepção e resistência psicológico-emocional.
 
+----------
+
 ###### Vitalidade V
 
 Representa a capacidade de recuperação física,
@@ -97,10 +113,14 @@ resistência a doenças e intempéries.
 É usada como nível básico no cálculo de Nₑ na recuperação de danos e saúde
 em geral.
 
+----------
+
 ###### Resistência R
 
 Representa a resistência física do personagem e funciona como redutor de danos
 de contusão, em casos especiais até de corte.
+
+----------
 
 ##### Estatísticas secundárias
 
@@ -115,6 +135,8 @@ de contusão, em casos especiais até de corte.
   que o personagem pode suportar;
 - **PV** (pontos de vida) quantidade de ferimentos
   que o personagem pode suportar.
+
+----------
 
 ###### Pontos de fadiga PF
 
@@ -170,6 +192,8 @@ continuará realizando os testes:
 todos os testes do turno seguinte recebe como redutor
 a quantidade de PF perdida.
 
+----------
+
 ###### Velocidade média Vm
 
 Apesar do nome (*média*),
@@ -186,6 +210,8 @@ Então, um personagem com V7, D5 e F4 terá Vm igual a 5m/s:
 (V7 + D5) ÷ 2  = N6
 N6 - (nᵧ0 + 1) = 5m/s
 ```
+
+----------
 
 ###### Pontos de sanidade PS
 
@@ -209,6 +235,8 @@ e não pode mais recuperar seus PS.
 
 O procedimento de recuperação é igual ao de PV,
 porém a stat usada como N é S em vez de V.
+
+----------
 
 ###### Pontos de vida PV
 
@@ -248,6 +276,8 @@ a quantidade de PV perdida,
 a menos que o PV tenha sido perdido como consequência de muitos PF perdidos.
 Então apenas o redutor do PF é aplicado.
 
+----------
+
 #### Vantagens
 
 Vantagens são características qualitativas que alteram positivamente como
@@ -260,6 +290,8 @@ como ela melhora a condição do personagem.
 Vantagens quantitativas (como PV extra) custam 1 ponto de personagem por nível,
 já vantagens qualitativas podem variar de 1 ponto (irrelevante)
 a 5 pontos (muito relevante).
+
+----------
 
 #### Desvantagens
 
@@ -283,6 +315,8 @@ que a metade de seus pontos iniciais.
 Então um personagem de 40 pontos não pode ter um total de desvantagens
 maior que 20.
 
+----------
+
 #### Perícias
 
 Perícias são habilidades geralmente adquiridas pelo personagem.
@@ -303,6 +337,8 @@ Cada nível de perícia custa 1 ponto de personagem.
 
 Um personagem com corrida +3 fará testes de corrida com Ne igual a
 D&nbsp;+&nbsp;3.
+
+----------
 
 #### Poder gigante
 
@@ -334,6 +370,8 @@ Isso nos leva a uma tabela exemplo:
 
 E Assim por diante.
 
+----------
+
 #### Poder minúsculo
 
 Podemos extrapolar os níveis gigante para valores negativos:
@@ -350,6 +388,8 @@ Podemos extrapolar os níveis gigante para valores negativos:
 **Observação:** poder minúsculo **não** pode ser usado como bônus
 onde nᵧ é usado como redutor.
 Nesses casos não há modificador.
+
+----------
 
 ##### Pontos de vida e fadiga minúsculos
 
@@ -375,6 +415,8 @@ O mesmo vale para PV.
 Todos os cálculos de recuperação são feitos normalmente,
 desconsiderando o nível gigante.
 
+----------
+
 #### Poder infinito
 
 Além dos níveis gigante muito altos, ainda há o poder infinito, N∞.
@@ -385,16 +427,22 @@ todos são automaticamente sucessos decisivos.
 Então é preciso bom senso do mestre para saber como lidar com esses personagens,
 geralmente deuses ou semideuses.
 
+----------
+
 ##### Semideuses
 
 Tradicionalmente um semideus é um personagem
 que possui duas *stats* primárias infinitas.
+
+----------
 
 ##### Deuses
 
 Tradicionalmente um deus é um personagem que possui todas as suas *stats*
 primárias em nível gigante,
 e ainda pode a cada turno escolher duas *stats* temporariamente infinitas.
+
+----------
 
 ### Carga
 
@@ -418,3 +466,5 @@ não deve ultrapassar o valor da F do personagem.
 
 **Observação:** não é preciso o extremo de comprar roupas,
 apesar de coletes, armas e armaduras serem necessariamente cobrados.
+
+----------

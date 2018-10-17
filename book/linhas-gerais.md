@@ -28,6 +28,8 @@ quando menor o valor numa jogada de habilidade, melhor o resultado.
 Os demais materiais usados também são muito inspirados nos três sistemas:
 simples e de fácil acesso.
 
+----------
+
 ### Princípios básicos
 
 Os quatro princípios fundamentais que orientaram toda a criação do sistema são:
@@ -41,6 +43,8 @@ Os quatro princípios fundamentais que orientaram toda a criação do sistema s
   situações imprevistas, sendo o mais livres de tabelas possível.
 1. Inteligibilidade: Para que os jogadores possam se dedicar à representação,
   o sistema deve ser intuitivo.
+
+----------
 
 ### Referências simples
 
@@ -119,3 +123,5 @@ Nₑ12 = 2 × (5) + 2 = 2d₆ + 2
 ⋱
 Nₑ19 = 4 × (5) − 1 = 4d₆ − 1
 ```
+
+----------
