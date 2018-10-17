@@ -28,7 +28,7 @@ Na década de ’70 os livros jogo, ou aventuras solo, ficaram muito populares.
 Neles o leitor é solicitado a tomar uma decisão em momentos críticos da
 história, podendo ser direcionado a páginas diferentes do livro.
 
-Com o tempo e a evolu ç ão da técnica, foram acrescentadas características
+Com o tempo e a evolução da técnica, foram acrescentadas características
 quantitativas e entropia através do lançamento de dados,
 formando os primórdios do RPG.
 
@@ -109,7 +109,7 @@ A 4ª edição, chamada ora 4D&T, ora 3D&T 4.0,
 é apenas uma adaptação do Sistema d20 para dados d₆.
 
 O sistema é extremamente minimalista, sendo fácil de ser jogado,
-porém criando dificuldades quando as campanhas evoluem por falta de suporte.
+porém criando dificuldades por falta de suporte quando as campanhas evoluem.
 
 #### Generic Fuzion
 
