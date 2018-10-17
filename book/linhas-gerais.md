@@ -1,5 +1,5 @@
 ---
-layout:    page
+layout:    bookpage
 title:     Linhas Gerais
 permalink: /book/linhas-gerais
 ---

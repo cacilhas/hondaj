@@ -1,5 +1,5 @@
 ---
-layout:    page
+layout:    bookpage
 title:     O Personagem
 permalink: /book/o-personagem
 ---
