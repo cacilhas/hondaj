@@ -6,7 +6,7 @@ permalink: /book/introdução
 
 ## Capítulo 1. Introdução
 
-{{ site.title }} se propõe a ser um sistema de RPG (*role-playinggame*)
+{{ site.title }} se propõe a ser um sistema de RPG (*role-playing game*)
 dinâmico, acessível, genérico e intuitivo.
 
 ### RPG
