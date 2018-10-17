@@ -8,10 +8,10 @@ permalink: /book/toc
 
 ### Parte Ⅰ – Apresentação
 - [Introdução](/book/introdução)
-- Linhas Gerais
+- [Linhas Gerais](/book/linhas-gerais)
 
 ### Parte Ⅱ – Básico
-- O Personagem
+- [O Personagem](/book/o-personagem)
 - Testes e Disputas
 - Sistema de Combate
 - Evolução do Personagem
