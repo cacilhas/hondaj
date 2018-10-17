@@ -12,7 +12,7 @@ permalink: /book/toc
 
 ### Parte Ⅱ – Básico
 - [O Personagem](/book/o-personagem)
-- Testes e Disputas
+- [Testes e Disputas](/book/testes-e-disputas)
 - Sistema de Combate
 - Evolução do Personagem
 
