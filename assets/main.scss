@@ -32,6 +32,33 @@ pre {
   border: 2px inset $box-border;
 }
 
+h5 {
+  &:before {
+    content: "➥ ";
+  }
+  font-size: 90%;
+  font-weight: bold;
+}
+
+h6 {
+  &:before {
+    content: "➢ ";
+  }
+  font-weight: bolder;
+  font-size: 80%;
+  margin-left: 1em;
+}
+
+h3,
+h4 {
+  margin-top: 1em;
+}
+
+h5,
+h6 {
+  margin-top: 2em;
+}
+
 .site-header,
 .site-footer,
 .home,
