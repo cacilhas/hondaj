@@ -265,6 +265,11 @@ Nₑ:
 | Falha                       | perde 1PV por sangramento |
 | Falha crítica               | morre                     |
 
+Caso o personagem receba atendimento de primeiros socorros
+(e os testes tenham sido bem sucedidos),
+o nível de primeiros socorros do socorrista será usado como bônus em todos
+os testes de recuperação de PV posteriores.
+
 Enquanto o personagem estiver com PV abaixo da quantidade máxima,
 deverá fazer um teste de vitalidade por dia,
 com o mesmo redutor descrito acima:
