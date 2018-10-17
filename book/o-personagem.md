@@ -373,7 +373,8 @@ conforme a ordem de grandeza de suas *stats*.
 Por exemplo, personagens extremamente fortes podem ter F56, ou ainda F128.
 Personagens incrivelmente rápidos podem ter D89.
 
-Cada nível de grandeza é chamado “nível gigante”, ou nᵧ,
+Cada nível de grandeza é chamado “nível gigante”, ou
+<span class="tooltip">nᵧ<span class="tooltiptext">ene gama</span></span>,
 e é calculado como [(N−1)÷10].
 
 Isso nos leva a uma tabela exemplo:
