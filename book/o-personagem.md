@@ -11,8 +11,8 @@ A unidade básica de uma representação é o personagem.
 Em RPG há dois tipos de personagem:
 o personagem-jogador (PJ) e o personagem não-jogador (PnJ).
 
-Personagem-jogador é aquele que é controlado por um jogador.
-PnJ é aquele que é definido pelo sistema e/ou controlado pelo mestre do jogo.
+Personagem-jogador é aquele que é representado por um jogador.
+PnJ é aquele que é definido pelo sistema e/ou representado pelo mestre do jogo.
 
 O personagem é criado a partir de pontos iniciais de personagem,
 que são distribuídos por diferentes seções,
@@ -243,8 +243,8 @@ porém a stat usada como N é S em vez de V.
 Representa a quantidade de ferimentos que o personagem pode sofrer,
 sendo seu máximo igual a sua vitalidade (V).
 
-Sempre que o personagem recebe um golpe cortante ou perfurante, perde PV . Caso
-o personagem atinja PV ≤ 0, corre risco de morte.
+Sempre que o personagem recebe um golpe cortante ou perfurante, perde PV.
+Caso o personagem atinja PV ≤ 0, corre risco de morte.
 
 Assim que o personagem recebe um dano que o deixa com PV ≤ 0
 (mesmo que já estivesse assim antes), precisa fazer um teste de V,
