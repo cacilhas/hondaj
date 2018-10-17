@@ -14,6 +14,7 @@ permalink: /book/toc
 - O Personagem
 - Testes e Disputas
 - Sistema de Combate
+- Evolução do Personagem
 
 ### Parte Ⅲ – Tópicos Avançados
 - Sistema de Magia
