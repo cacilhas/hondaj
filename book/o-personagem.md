@@ -286,6 +286,16 @@ Então apenas o redutor do PF é aplicado.
 
 ----------
 
+###### Morte
+
+Uma falha crítica em quase qualquer dos testes de vitalidade citados acima
+implica em **morte**.
+
+Se o personagem chegar a uma quantidade PV menor ou igual a -V,
+ele **morre** automaticamente.
+
+----------
+
 #### Vantagens
 
 Vantagens são características qualitativas que alteram positivamente como
