@@ -187,4 +187,234 @@ Então, um personagem com V7, D5 e F4 terá Vm igual a 5m/s:
 N6 - (nᵧ0 + 1) = 5m/s
 ```
 
-TODO
+###### Pontos de sanidade PS
+
+
+Seu valor máximo é igual a S.
+
+Sempre que o personagem confronta uma realidade que conflita
+com seu entendimento de realidade, precisa fazer um teste de cognição.
+O nível básico é S, e os modificadores são definidos pelo mestre
+conforme a gravidade do choque de realidade.
+
+Os resultados:
+
+| Sucesso decisivo | personagem lida bem com o fato                     |
+| Sucesso          | personagem digere o fato com dificuldade           |
+| Falha            | personagem perde 1PS                               |
+| Falha crítica    | personagem perde metade de seus PS, pelo menos 2PS |
+
+Caso o personagem atinge PS ≤ 0, perde a sanidade, enlouquecendo,
+e não pode mais recuperar seus PS.
+
+O procedimento de recuperação é igual ao de PV,
+porém a stat usada como N é S em vez de V.
+
+###### Pontos de vida PV
+
+Representa a quantidade de ferimentos que o personagem pode sofrer,
+sendo seu máximo igual a sua vitalidade (V).
+
+Sempre que o personagem recebe um golpe cortante ou perfurante, perde PV . Caso
+o personagem atinja PV ≤ 0, corre risco de morte.
+
+Assim que o personagem recebe um dano que o deixa com PV ≤ 0
+(mesmo que já estivesse assim antes), precisa fazer um teste de V,
+tendo como redutor a quantidade de PV negativos.
+
+**Primeiro teste com PV ≤ 0:**
+
+| Sucesso decisivo | recupera 1PV        |
+| Sucesso          | nada acontece       |
+| Falha            | perde a consciência |
+| Falha crítica    | morre               |
+
+Enquanto o personagem estiver com PV abaixo da quantidade máxima,
+deverá fazer um teste de vitalidade por dia,
+com o mesmo redutor descrito acima:
+
+| Condição   | Sucesso decisivo | Sucesso      | Falha         | Falha crítica |
+|------------|------------------|--------------|---------------|---------------|
+| PV &lt; 0  | recupera 2PV     | recupera 1PV | perde 1PV     | morre         |
+| PV ≥ 0     | recupera 2PV     | recupera 1PV | nada acontece | perde 1PV     |
+
+
+Pontos de vida perdidos por amputação não podem ser recuperados,
+diminuindo a quantidade máxima de PV.
+
+**Observação:** sempre que o personagem perde PV,
+todos os testes do turno seguinte recebe como redutor
+a quantidade de PV perdida,
+a menos que o PV tenha sido perdido como consequência de muitos PF perdidos.
+Então apenas o redutor do PF é aplicado.
+
+#### Vantagens
+
+Vantagens são características qualitativas que alteram positivamente como
+o personagem interage como o mundo.
+
+Pode ser PV extra, visão noturna, memória eidética, etc.
+
+O custo de uma vantagem varia de acordo com
+como ela melhora a condição do personagem.
+Vantagens quantitativas (como PV extra) custam 1 ponto de personagem por nível,
+já vantagens qualitativas podem variar de 1 ponto (irrelevante)
+a 5 pontos (muito relevante).
+
+#### Desvantagens
+
+Vantagens são características qualitativas que alteram negativamente como
+o personagem interage como o mundo.
+
+Pode ser amputado (PV a menos), astigmatismo, síndrome do pânico, etc.
+Desvantagens têm custo negativo, ou seja,
+garante pontos extra para a composição do personagem.
+
+Seguem a mesma regra que as vantagens, porém negativas:
+quantitativas custam -1 ponto por nível,
+qualitativas variam em -1 ponto (irrelevante) a -5 pontos (muito relevante).
+
+O mestre deve evitar permitir que os jogadores atribuam a seus personagens
+desvantagens com valor absoluto maior que 3 (-4 ou -5).
+
+Não deve ser permitido que personagens tenham mais pontos de desvantagem
+que a metade de seus pontos iniciais.
+
+Então um personagem de 40 pontos não pode ter um total de desvantagens
+maior que 20.
+
+#### Perícias
+
+Perícias são habilidades geralmente adquiridas pelo personagem.
+Funcionam como bônus para tarefas específicas,
+e algumas tarefas só são possíveis com a perícia adequada.
+
+Por exemplo,
+só é possível operações avançadas de computador com a perícia computação.
+
+Arrombamento de fechadura possui um redutor para cada tipo de fechadura:
+uma fechadura difícil pode ter redutor entre −10 e −5,
+uma média −3 e uma fácil pode ser −1 ou nada.
+Com a perícia arrombamento nível 3,
+o Nₑ para arrombar um fechadura −5 é D&nbsp;−&nbsp;5&nbsp;+&nbsp;3,
+ou D&nbsp;−&nbsp;2.
+
+Cada nível de perícia custa 1 ponto de personagem.
+
+Um personagem com corrida +3 fará testes de corrida com Ne igual a
+D&nbsp;+&nbsp;3.
+
+#### Poder gigante
+
+Eventualmente alguns personagens podem ter alguns *stats* gigantescos
+– super-heróis, gigantes, monstros, avatares (poderes divinos), etc.
+Nestes casos facilita gerenciá-los e compará-los agrupando-os
+conforme a ordem de grandeza de suas *stats*.
+
+Por exemplo, personagens extremamente fortes podem ter F56, ou ainda F128.
+Personagens incrivelmente rápidos podem ter D89.
+
+Cada nível de grandeza é chamado “nível gigante”, ou nᵧ,
+e é calculado como [(N−1)÷10].
+
+Isso nos leva a uma tabela exemplo:
+
+| nᵧ | mínimo |     | máximo |
+|:--:|:------:|:---:|:------:|
+|  0 |   N1   | até |   N10  |
+|  1 |   N11  | até |   N20  |
+|  2 |   N21  | até |   N30  |
+|  3 |   N31  | até |   N40  |
+|  4 |   N41  | até |   N50  |
+|  5 |   N51  | até |   N60  |
+|  6 |   N61  | até |   N70  |
+|  7 |   N71  | até |   N80  |
+|  8 |   N81  | até |   N90  |
+|  9 |   N91  | até |  N100  |
+
+E Assim por diante.
+
+#### Poder minúsculo
+
+Podemos extrapolar os níveis gigante para valores negativos:
+
+| nᵧ | mínimo |     | máximo |
+|:--:|:------:|:---:|:------:|
+| -1 |  N-9   | até |    N0  |
+| -2 | N-19   | até |  N-10  |
+| -3 | N-29   | até |  N-20  |
+| -4 | N-39   | até |  N-30  |
+| -5 | N-49   | até |  N-40  |
+| -6 | N-59   | até |  N-50  |
+
+**Observação:** poder minúsculo **não** pode ser usado como bônus
+onde nᵧ é usado como redutor.
+Nesses casos não há modificador.
+
+##### Pontos de vida e fadiga minúsculos
+
+Quanto lidamos com o mundo do muito pequeno, surgem alguns problemas críticos,
+como as *stats* secundárias para *stats* primárias negativas.
+
+A forma de lidar com isso é com modificadores associados:
+o modificador é igual ao nível gigante multiplicado por -10.
+
+Por exemplo, um personagem com PF-13:
+ele está no nᵧ-2, portanto terá um modificador 20,
+−2&nbsp;×&nbsp;−10&nbsp;=&nbsp;20.
+
+Mas este modificador deve anotado para ser aplicado a todos os testes.
+Então seus pontos de fadiga serão marcados como 7PF/nᵧ-2,
+pois −13&nbsp;+&nbsp;20&nbsp;=&nbsp;7.
+
+Caso outro personagem acerte-o um golpe contundente com Fₑ-6,
+a forçar receberá o mesmo modificador, sendo ajustada para Fₑ14,
+equivalente a 3d6&nbsp;−&nbsp;1 contra seus 7PF.
+
+O mesmo vale para PV.
+Todos os cálculos de recuperação são feitos normalmente,
+desconsiderando o nível gigante.
+
+#### Poder infinito
+
+Além dos níveis gigante muito altos, ainda há o poder infinito, N∞.
+
+Estes são casos muito raros, onde nenhum teste é necessário:
+todos são automaticamente sucessos decisivos.
+
+Então é preciso bom senso do mestre para saber como lidar com esses personagens,
+geralmente deuses ou semideuses.
+
+##### Semideuses
+
+Tradicionalmente um semideus é um personagem
+que possui duas *stats* primárias infinitas.
+
+##### Deuses
+
+Tradicionalmente um deus é um personagem que possui todas as suas *stats*
+primárias em nível gigante,
+e ainda pode a cada turno escolher duas *stats* temporariamente infinitas.
+
+### Carga
+
+O mestre do jogo deve dar a cada personagem uma quantidade de dinheiro inicial
+para que ele possa adquirir equipamentos.
+
+Tradicionalmente o valor é de mil dólares
+– ou mil rúpias em ambientação fantástica.
+Caso algum personagem queira mais dinheiro, terá de comprar a vantagem riqueza,
+que equivale a mais Rs500 por ponto/nível de riqueza.
+
+O personagem também pode comprometer sua quantidade recursos
+para compra de carga com a desvantagem pobreza,
+que divide pela metade o valor disponível para cada ponto/nível.
+
+Os preços dos equipamentos comprados devem ser justos
+e relacionados aos preços equivalentes a época e local onde a aventura acontece.
+
+A quantidade equipamentos leves que o personagem carrega
+não deve ultrapassar o valor da F do personagem.
+
+**Observação:** não é preciso o extremo de comprar roupas,
+apesar de coletes, armas e armaduras serem necessariamente cobrados.
