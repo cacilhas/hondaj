@@ -1,0 +1,23 @@
+---
+---
+
+@import "style";
+
+.pagination {
+  text-align: center;
+  font-size: small;
+
+  a, span {
+    padding: 7px 18px;
+    border: 1px solid $light-gray;
+    margin-left: -2px;
+    margin-right: -2px;
+    background-color: inherit;
+    display: inline-block;
+  }
+
+  a:hover {
+    background-color: $light-gray;
+    color: $gray;
+  }
+}
