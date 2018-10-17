@@ -261,8 +261,9 @@ Enquanto o personagem estiver com PV negativo e não tiver recebido
 os primeiros socorros, deve fazer um teste por minuto com o mesmo cálculo de
 Nₑ:
 
-| Sucesso ou sucesso decisivo | nada acontece |
-| Falha ou falha crítica      | morre         |
+| Sucesso ou sucesso decisivo | nada acontece             |
+| Falha                       | perde 1PV por sangramento |
+| Falha crítica               | morre                     |
 
 Enquanto o personagem estiver com PV abaixo da quantidade máxima,
 deverá fazer um teste de vitalidade por dia,
