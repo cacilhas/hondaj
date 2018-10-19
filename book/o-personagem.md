@@ -1,6 +1,7 @@
 ---
 layout:    bookpage
 title:     O Personagem
+hide:   true
 permalink: /book/o-personagem
 ---
 

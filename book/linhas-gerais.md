@@ -1,6 +1,7 @@
 ---
 layout:    bookpage
 title:     Linhas Gerais
+hide:   true
 permalink: /book/linhas-gerais
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout:    bookpage
 title:     Testes e Disputas
+hide:   true
 permalink: /book/testes-e-disputas
 ---
 

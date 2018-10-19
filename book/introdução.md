@@ -1,6 +1,7 @@
 ---
 layout:    bookpage
 title:     Introdução
+hide:   true
 permalink: /book/introdução
 ---
 
