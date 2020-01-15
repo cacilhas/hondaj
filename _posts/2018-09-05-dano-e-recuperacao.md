@@ -53,8 +53,8 @@ O cálculo de Fₑ, onde F é a força do personagem que causou o dano:
 - Instrumento pesado: Fₑ = tamanho em metros × cada 10Kg de peso
 - Objeto em movimento: Fₑ = cada 10Kg de peso × velocidade em m/s
 
-O valor ⅟₁₀(F-1) é conveniente por é o nível gigante: 1 a 10 é o 1º nível, 11 a
-20 o 2º, 21 a 30 o 3º e assim por diante.
+O valor ⅟₁₀(F-1) é conveniente por ser o nível gigante: 1 a 10 é o 1º nível, 11
+a 20 o 2º, 21 a 30 o 3º e assim por diante.
 
 Algums modificadores:
 
